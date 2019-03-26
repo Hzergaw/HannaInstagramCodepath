@@ -1,8 +1,8 @@
-# Project 3 - *InstagramCodepath*
+# Unit 5 - *InstagramCodepath*
 
-**SylensInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**HannaInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **48** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
@@ -30,13 +30,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Sylenss/InstagramCodepath/blob/master/Instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Very simple to use.
 
 ## Open-source libraries used
 
@@ -44,12 +44,6 @@ Describe any challenges encountered while building the app.
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
 ## License
-
-    Copyright [2019] [Christina Clayton]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
 
         http://www.apache.org/licenses/LICENSE-2.0
 
